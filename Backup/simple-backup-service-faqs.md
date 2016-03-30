@@ -111,7 +111,7 @@ A: Currently the only restore option available is a full restore of all files fr
 
 **Q: Can restores be performed to another server?**
 
-A: Not currently at this time. A self-service feature is on the SBS roadmap.
+A: Not currently at this time. A self-service feature is on the SBS roadmap. If the need arises to restore files to an alternate server, please open a support request.
 
 **Q: How is the “Backup Date” determined for Restore Points?**
 
